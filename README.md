@@ -158,7 +158,7 @@ Modern premium frontend project showcasing interactive JavaScript elements and U
 
 # 👨‍💻 Author
 
-Built with ❤️ using Vanilla JavaScript, HTML & CSS.
+Built with ❤️ using JavaScript, HTML & CSS.
 
 ---
 
